@@ -14,3 +14,9 @@ Engenharia de Computacao - Faculdade de Engenharia de Sorocaba (Cursando)
 TCC - Sistema de Gerar Grade Horária dos Professores - ETEC Prof Elias Miguel Junior
 
 ## Skills
+
+Tecnologias:
+
+  - C#
+  - C
+  - C++
