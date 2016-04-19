@@ -27,6 +27,6 @@ Idioma:
   - Inglês Intermediário - Excelente leitura e conversação média 
   
 ## Principais Repositórios
-  - [Repositório 1](http://google.com)
-  - [Repositório 2](http://github.com/)
-  - [Repositório 3](http://facens.br)
+  - [Repositório 1](http://facens.br)
+  - [Repositório 2](http://google.com)
+  - [Repositório 3](http://github.com/)
