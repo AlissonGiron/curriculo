@@ -24,4 +24,4 @@ Tecnologias:
 
 Idioma:
 
-  - Inglês Intermediário
+  - Inglês Intermediário - Excelente leitura e conversação média 
