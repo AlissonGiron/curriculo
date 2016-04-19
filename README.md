@@ -25,3 +25,8 @@ Tecnologias:
 Idioma:
 
   - Inglês Intermediário - Excelente leitura e conversação média 
+  
+## Principais Repositórios
+  - [Repositório 1](http://carretafuracao.com)
+  - [Repositório 2](http://facens.br)
+  - [Repositório 3]()
