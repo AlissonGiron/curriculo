@@ -7,5 +7,6 @@ Minicurso de Git Facens @abril/2016
 
 ## Experiência
 
-## Skills
+TCC - Sistema de Gerar Grade Horária dos Professores - ETEC Prof Elias Miguel Junior
 
+## Skills
