@@ -5,6 +5,8 @@ Minicurso de Git Facens @abril/2016
 
 ## Formação
 
+Técnico em Informática - ETEC Profº Elias Miguel Júnior
+
 ## Experiência
 
 TCC - Sistema de Gerar Grade Horária dos Professores - ETEC Prof Elias Miguel Junior
