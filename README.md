@@ -17,6 +17,11 @@ TCC - Sistema de Gerar Grade Horária dos Professores - ETEC Prof Elias Miguel J
 
 Tecnologias:
 
+  - Git
   - C#
   - C
   - C++
+
+Idioma:
+
+  - Inglês Intermediário
