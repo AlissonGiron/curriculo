@@ -5,8 +5,8 @@ Minicurso de Git Facens @abril/2016
 
 ## Formação
 
-Técnico em Informática - ETEC Profº Elias Miguel Júnior
-
+Ensino Médio - ETEC Prof Elias Miguel Junior  
+Técnico em Informática - ETEC Profº Elias Miguel Júnior  
 Engenharia de Computacao - Faculdade de Engenharia de Sorocaba (Cursando)
 
 ## Experiência
